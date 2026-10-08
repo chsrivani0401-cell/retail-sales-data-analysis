@@ -1,0 +1,101 @@
+Order ID,Order Date,Product,Category,Quantity,Unit Price,Sales,Region
+ORD0001,2026-03-04,Headphones,Electronics,1,47.17,47.17,South
+ORD0002,2026-05-20,Keyboard,Electronics,1,31.06,31.06,North
+ORD0003,2026-01-24,Desk Lamp,Home Office,4,25.38,101.52,South
+ORD0004,2026-05-24,Office Chair,Furniture,5,183.67,918.35,South
+ORD0005,2026-05-31,Water Bottle,Accessories,4,14.16,56.64,East
+ORD0006,2026-03-29,Laptop,Electronics,2,675.76,1351.52,East
+ORD0007,2026-03-28,Keyboard,Electronics,2,32.74,65.48,North
+ORD0008,2026-03-30,Headphones,Electronics,4,41.37,165.48,East
+ORD0009,2026-04-07,Laptop,Electronics,4,654.71,2618.84,North
+ORD0010,2026-06-08,Water Bottle,Accessories,3,15.99,47.97,East
+ORD0011,2026-01-12,Desk Lamp,Home Office,2,29.15,58.3,South
+ORD0012,2026-01-26,Desk,Furniture,1,235.63,235.63,West
+ORD0013,2026-04-04,Desk,Furniture,4,225.97,903.88,South
+ORD0014,2026-03-10,Notebook,Stationery,3,5.65,16.95,North
+ORD0015,2026-03-04,Desk Lamp,Home Office,2,28.19,56.38,South
+ORD0016,2026-06-13,Backpack,Accessories,4,33.39,133.56,South
+ORD0017,2026-01-09,Notebook,Stationery,1,5.67,5.67,East
+ORD0018,2026-05-26,Pen Set,Stationery,3,7.31,21.93,East
+ORD0019,2026-06-14,Office Chair,Furniture,4,176.24,704.96,West
+ORD0020,2026-05-24,Keyboard,Electronics,3,27.84,83.52,East
+ORD0021,2026-04-13,Desk Lamp,Home Office,4,30.23,120.92,East
+ORD0022,2026-01-24,Office Chair,Furniture,2,180.34,360.68,North
+ORD0023,2026-06-24,Headphones,Electronics,2,46.15,92.3,West
+ORD0024,2026-06-02,Desk Lamp,Home Office,1,27.35,27.35,West
+ORD0025,2026-01-03,Water Bottle,Accessories,3,16.41,49.23,North
+ORD0026,2026-03-29,Water Bottle,Accessories,3,15.81,47.43,North
+ORD0027,2026-01-01,Desk,Furniture,4,204.96,819.84,East
+ORD0028,2026-01-28,Water Bottle,Accessories,2,15.02,30.04,East
+ORD0029,2026-04-06,Water Bottle,Accessories,5,14.1,70.5,South
+ORD0030,2026-06-03,Water Bottle,Accessories,5,16.26,81.3,East
+ORD0031,2026-04-03,Backpack,Accessories,1,32.28,32.28,East
+ORD0032,2026-05-26,Office Chair,Furniture,1,170.67,170.67,North
+ORD0033,2026-05-17,Headphones,Electronics,4,47.84,191.36,South
+ORD0034,2026-02-12,Keyboard,Electronics,4,32.68,130.72,East
+ORD0035,2026-02-24,Water Bottle,Accessories,5,14.77,73.85,South
+ORD0036,2026-06-16,Desk,Furniture,4,241.79,967.16,East
+ORD0037,2026-03-05,Backpack,Accessories,5,34.66,173.3,South
+ORD0038,2026-05-22,Headphones,Electronics,3,40.69,122.07,South
+ORD0039,2026-06-11,Desk Lamp,Home Office,2,25.24,50.48,North
+ORD0040,2026-03-26,Office Chair,Furniture,1,194.6,194.6,North
+ORD0041,2026-05-05,Water Bottle,Accessories,2,14.34,28.68,South
+ORD0042,2026-05-27,Water Bottle,Accessories,2,15.67,31.34,West
+ORD0043,2026-02-18,Office Chair,Furniture,4,191.07,764.28,North
+ORD0044,2026-04-16,Headphones,Electronics,4,43.69,174.76,West
+ORD0045,2026-03-28,Laptop,Electronics,1,592.88,592.88,North
+ORD0046,2026-04-25,Office Chair,Furniture,2,168.85,337.7,South
+ORD0047,2026-03-05,Pen Set,Stationery,2,7.65,15.3,North
+ORD0048,2026-06-16,Backpack,Accessories,5,32.19,160.95,North
+ORD0049,2026-05-05,Headphones,Electronics,2,42.0,84.0,West
+ORD0050,2026-02-12,Office Chair,Furniture,4,194.49,777.96,West
+ORD0051,2026-04-27,Laptop,Electronics,4,619.48,2477.92,East
+ORD0052,2026-05-05,Pen Set,Stationery,5,8.26,41.3,South
+ORD0053,2026-01-15,Office Chair,Furniture,3,169.84,509.52,North
+ORD0054,2026-05-03,Notebook,Stationery,1,5.46,5.46,South
+ORD0055,2026-02-17,Laptop,Electronics,5,595.41,2977.05,North
+ORD0056,2026-03-02,Desk Lamp,Home Office,1,28.98,28.98,West
+ORD0057,2026-06-02,Headphones,Electronics,5,42.72,213.6,North
+ORD0058,2026-05-30,Desk Lamp,Home Office,1,27.55,27.55,East
+ORD0059,2026-03-22,Desk,Furniture,2,227.47,454.94,South
+ORD0060,2026-06-15,Desk,Furniture,4,203.76,815.04,East
+ORD0061,2026-01-19,Backpack,Accessories,3,38.0,114.0,North
+ORD0062,2026-01-26,Backpack,Accessories,5,38.49,192.45,North
+ORD0063,2026-02-03,Water Bottle,Accessories,2,15.02,30.04,East
+ORD0064,2026-02-10,Headphones,Electronics,2,43.83,87.66,West
+ORD0065,2026-06-17,Water Bottle,Accessories,3,15.34,46.02,North
+ORD0066,2026-01-27,Water Bottle,Accessories,3,16.3,48.9,South
+ORD0067,2026-05-22,Desk,Furniture,1,237.15,237.15,South
+ORD0068,2026-03-29,Desk,Furniture,3,224.61,673.83,South
+ORD0069,2026-01-14,Desk,Furniture,5,219.5,1097.5,North
+ORD0070,2026-03-27,Pen Set,Stationery,3,7.27,21.81,South
+ORD0071,2026-05-22,Desk,Furniture,2,230.61,461.22,West
+ORD0072,2026-06-26,Water Bottle,Accessories,1,13.84,13.84,South
+ORD0073,2026-05-30,Water Bottle,Accessories,1,16.0,16.0,South
+ORD0074,2026-04-04,Pen Set,Stationery,2,7.27,14.54,North
+ORD0075,2026-06-20,Notebook,Stationery,2,6.22,12.44,North
+ORD0076,2026-04-15,Notebook,Stationery,5,6.46,32.3,South
+ORD0077,2026-02-15,Office Chair,Furniture,2,197.14,394.28,West
+ORD0078,2026-03-27,Laptop,Electronics,2,680.75,1361.5,West
+ORD0079,2026-06-29,Office Chair,Furniture,3,167.73,503.19,North
+ORD0080,2026-02-26,Pen Set,Stationery,1,8.57,8.57,South
+ORD0081,2026-02-28,Backpack,Accessories,3,33.64,100.92,South
+ORD0082,2026-03-13,Laptop,Electronics,2,636.8,1273.6,North
+ORD0083,2026-04-13,Desk,Furniture,3,226.23,678.69,East
+ORD0084,2026-03-08,Laptop,Electronics,1,699.01,699.01,South
+ORD0085,2026-06-02,Desk Lamp,Home Office,3,25.41,76.23,West
+ORD0086,2026-05-11,Notebook,Stationery,3,5.92,17.76,North
+ORD0087,2026-01-12,Pen Set,Stationery,5,7.5,37.5,West
+ORD0088,2026-05-18,Laptop,Electronics,5,705.32,3526.6,South
+ORD0089,2026-06-20,Notebook,Stationery,4,5.48,21.92,East
+ORD0090,2026-02-01,Desk Lamp,Home Office,3,28.91,86.73,East
+ORD0091,2026-03-25,Water Bottle,Accessories,3,15.5,46.5,West
+ORD0092,2026-04-18,Desk,Furniture,5,203.6,1018.0,West
+ORD0093,2026-04-14,Keyboard,Electronics,5,30.41,152.05,North
+ORD0094,2026-05-29,Desk,Furniture,3,207.25,621.75,East
+ORD0095,2026-02-24,Backpack,Accessories,4,34.6,138.4,West
+ORD0096,2026-06-19,Keyboard,Electronics,1,28.7,28.7,East
+ORD0097,2026-02-27,Headphones,Electronics,2,46.56,93.12,South
+ORD0098,2026-05-02,Keyboard,Electronics,1,27.28,27.28,North
+ORD0099,2026-05-28,Backpack,Accessories,4,37.7,150.8,South
+ORD0100,2026-02-07,Pen Set,Stationery,4,7.84,31.36,North
